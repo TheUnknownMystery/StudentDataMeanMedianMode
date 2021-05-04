@@ -16,3 +16,4 @@ fig = go.Figure(go.Bar(
 ))
 
 fig.show()
+#c
